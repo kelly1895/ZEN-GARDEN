@@ -1,0 +1,24 @@
+.page-wrapper {
+    
+    text-align: left;
+    margin: 0px auto;
+    width: 696px;
+    padding-bottom: 70px;
+    
+}
+
+div.participation {
+    background-attachment: scroll,scroll,fixed;
+    background-color: rgba(138,188,159,0.5);
+    background: url(images/pic1.jpg);
+    background-repeat: repeat,repeat,no-repeat;
+    background-size: auto,auto,cover;
+    padding: :3em 0;
+    margin-top: 3em;
+}
+
+h3 {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+}
