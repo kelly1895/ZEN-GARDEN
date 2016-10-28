@@ -1,3 +1,21 @@
+h1 {
+    font-family: Showcard Gothic;
+    font-size:50px;
+    text-align: center;
+    color: 	#F08080;
+    background-image: url(images/pic4.jpg);
+    text-transform:lowercase;
+}
+
+h2 {
+    font-family: Showcard Gothic;
+    font-size:50px;
+    text-align: center;
+    color: 	#F08080;
+    background-image: url(images/pic4.jpg);
+}
+
+
 .page-wrapper {
     
     text-align: left;
@@ -18,7 +36,144 @@ div.participation {
 }
 
 h3 {
-    font-family: 'Julius Sans One', sans-serif;
+    font-family: Showcard Gothic;
     font-size: 1.8em;
     font-weight: normal;
+    color:#6495ED;
+}
+
+body{
+    background-image: url(images/pic9.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: center center;
+    font-family: Rockwell;
+}
+
+ p{
+font-family: monospace serif cursive;
+
+}
+
+a{
+    font-size: 16px;
+    text-decoration: none;
+    color: #cc0000}
+
+a:link{
+    color: #DF1338;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 18px;
+}
+
+ ul li{
+    list-style: none;
+}
+
+.div nav ul li {
+    
+    background-color: chocolate;
+    
+    text-decoration:none;
+    display: block;
+}
+.sidebar{
+    top: 250px;
+       margin-left: 700px;
+       width: 196px;
+       background: #F4A460;
+        padding-left: 30px;
+        position: absolute;
+        border-color:#6495ED;
+        text-align: left;
+        border-radius: 15px;
+    
+}
+
+.zen-validate-html, .zen-validate-css,  .zen-license, .zen-accessibility, .zen-github
+{
+    height:150px;
+    width:300px;
+    border-color:#FFA500;
+    background:#FFA500;
+    border-radius:5px;
+    margin:auto;
+    text-align:center;
+    padding: 10px 20px;
+    margin: 20px 20px;
+    }
+div.summary {
+     border: 10px solid #FFD700;
+    background: #FFD700;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 10px 10px
+    
+}
+
+
+div.main {
+    border: 10px solid 	#FFD700;
+    background: 	#FFD700;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 10px 10px
+}
+
+
+
+div.supporting {
+     border: 10px solid #FFD700;
+    background: 	#FFD700;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 10px 10px
+}
+
+
+div.participation {
+   border: 10px solid 	#FFD700;
+    background:#EEE8AA;
+    border-radius: 20px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+
+div.benefits {
+      border: 10px solid #EEE8AA;
+    background: #EEE8AA;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 20px 20px;
+}
+
+
+div.requirements{
+      border: 10px solid #EEE8AA;
+    background: #EEE8AA;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 20px 20px;
+
+}
+
+div.main supporting
+{
+      border: 10px solid #EEE8AA;
+    background: #EEE8AA;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 20px 20px;
+}
+
+div.preamble{
+      border: 10px solid #EEE8AA;
+    background: #EEE8AA;
+    border-radius: 10px;
+    padding: 10px 10px;
+    margin: 20px 20px;
 }
